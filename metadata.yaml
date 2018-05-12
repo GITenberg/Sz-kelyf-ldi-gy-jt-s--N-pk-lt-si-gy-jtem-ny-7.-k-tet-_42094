@@ -1,0 +1,35 @@
+_repo: Sz-kelyf-ldi-gy-jt-s--N-pk-lt-si-gy-jtem-ny-7.-k-tet-_42094
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mailand, Oszkár
+    alias: Mailand, Oszkar
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '41518'
+    url: http://www.gutenberg.org/2009/agents/41518
+  editor:
+    agent_name: Vargha, Gyula
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '41519'
+    url: http://www.gutenberg.org/2009/agents/41519
+description: ''
+gutenberg_issued: '2013-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42094'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian -- Romania -- Transylvania'
+- !lcsh 'Folk songs, Hungarian -- Romania -- Transylvania'
+- !lcc 'PH'
+- !lcsh 'Hungarian poetry -- Romania -- Transylvania'
+title: Székelyföldi gyüjtés (Magyar népköltési gyüjtemény 7. kötet)
+url: http://www.gutenberg.org/ebooks/42094
