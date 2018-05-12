@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '41519'
     url: http://www.gutenberg.org/2009/agents/41519
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42094#Sz-kelyf-ldi-gy-jt-s--N-pk-lt-si-gy-jtem-ny-7.-k-tet-
 gutenberg_issued: '2013-02-14'
 gutenberg_type: Text
 identifiers:
